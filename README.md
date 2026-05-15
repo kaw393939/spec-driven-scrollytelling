@@ -1,3 +1,27 @@
+# Spec-Driven Scrollytelling
+
+<!-- portfolio-curation -->
+## Portfolio Overview
+Static Next.js teaching site for directing AI pair programming through a scrollytelling assignment.
+
+**Live site:** https://kaw393939.github.io/spec-driven-scrollytelling/
+
+## What This Demonstrates
+- Spec-driven development
+- AI pair workflow
+- interactive teaching artifact
+
+## Stack
+TypeScript, Next.js, GitHub Pages
+
+## Portfolio Status
+This repository is part of Keith Williams' curated public portfolio. The README has been updated to explain the project purpose, technical focus, and why the work is worth reviewing.
+<!-- /portfolio-curation -->
+
+---
+
+## Original Notes
+
 # Scrolly
 
 A statically-exported Next.js site that teaches **how to direct an AI pair on a real project** — disguised as an assignment to build a scrollytelling web page.
@@ -127,3 +151,4 @@ Copy-pasteable prompts for each step: [docs/guide/07-prompt-templates.md](docs/g
 ## License
 
 TBD.
+
